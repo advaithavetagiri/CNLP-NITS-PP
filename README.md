@@ -31,10 +31,10 @@ Collaborators who drive our projects forward:
   - Role: Team Member(Final Year Student of B.Tech in CSE at NIT Silchar) 
   - LinkedId: [Eisha Halder](https://www.linkedin.com/in/eisha-halder-a42367200/)
 
- - **Gyandeep Kalita**
+- **Gyandeep Kalita**
   - Role: Team Member(Final Year Student of B.Tech in CSE at NIT Silchar) 
   - LinkedId: [Gyandeep Kalita](https://www.linkedin.com/in/gyandeep-kalita-354294219/)
 
- - **Chetna Taparia**
+- **Chetna Taparia**
   - Role: Team Member(Final Year Student of B.Tech in CSE at NIT Silchar)  
   - LinkedId: [Chetna Taparia](https://www.linkedin.com/in/chetna-taparia-821761204/)
