@@ -11,7 +11,7 @@ Guiding us with wisdom and experience :
   - Role: Faculty Lead & Technical Advisor
   - ResearchGate: [Dr. Partha Pakray](https://www.researchgate.net/profile/Dr-Partha-Pakray)
   - Google Scholar: [Dr. Partha Pakray](https://scholar.google.fr/citations?user=3pp18IYAAAAJ&hl=en)
-  - LinkedId: 
+  - LinkedId: [Dr. Partha Pakray](https://www.linkedin.com/in/dr-partha-pakray-09a86a52/)
 
 ## 👥 Team Leadership
 
